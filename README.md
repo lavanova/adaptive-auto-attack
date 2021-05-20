@@ -1,11 +1,7 @@
 # Adaptive AutoAttack
 
 "Automatic Discovery of Adaptive Attacks on Adversarial Defenses"
-
-Chengyuan Yao, Pavol Bielik, Petar Tsankov, Martin Vechev
-
-arxiv: https://arxiv.org/abs/2102.11860v1
-
+AutoML@ICML2021 
 
 ## Setup:
 python version>=3.6
